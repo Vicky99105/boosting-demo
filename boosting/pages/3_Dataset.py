@@ -6,8 +6,8 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-dataset_1 = './boosting/static/dataset_1.jpg'
-dataset_2 = './boosting/static/dataset_2.jpg'
+dataset_1 = Image.open('./boosting/static/dataset_1.jpg')
+dataset_2 = Image.open('./boosting/static/dataset_2.jpg')
 
 st.header("Dataset")
 
