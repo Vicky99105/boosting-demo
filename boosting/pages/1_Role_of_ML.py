@@ -82,4 +82,4 @@ col1, col2, col3 = st.columns(3, gap="large")
 with col3:
     switch_button = st.button("Mark as Complete")
     if switch_button:
-        switch_page("Metrics")
+        switch_page("Metric")
