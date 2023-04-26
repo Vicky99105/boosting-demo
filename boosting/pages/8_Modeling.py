@@ -74,4 +74,4 @@ col1, col2, col3 = st.columns(3, gap="large")
 with col3:
     switch_button = st.button("Mark as Complete")
     if switch_button:
-        switch_page("Exercise-1: Run Decision Tree")
+        switch_page("Boosting Intro")

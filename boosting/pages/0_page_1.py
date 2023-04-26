@@ -122,4 +122,4 @@ with tab2:
     with col3:
         switch_button = st.button("Mark as Complete")
         if switch_button:
-            switch_page("Relevant factors/features")
+            switch_page("Role of ML")
