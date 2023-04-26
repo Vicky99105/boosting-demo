@@ -1,6 +1,6 @@
 import streamlit as st
 
-from st_pages import add_page_title, show_pages_from_config
+from st_pages import add_page_title
 from streamlit_extras.switch_page_button import switch_page
 
 
@@ -8,8 +8,6 @@ add_page_title()  # By default this also adds indentation
 
 # Specify what pages should be shown in the sidebar, and what their titles and icons
 # should be
-show_pages_from_config()
-
 st.markdown("""
 
     ---
