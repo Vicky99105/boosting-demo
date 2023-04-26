@@ -3,7 +3,7 @@ from st_pages import add_indentation
 from PIL import Image
 from streamlit_extras.switch_page_button import switch_page
 
-lime = Image.open("./boosting/static/lime.jpg")
+lime = Image.open("./boosting/static/lime.JPG")
 
 add_indentation()
 

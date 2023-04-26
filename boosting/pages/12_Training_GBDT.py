@@ -5,7 +5,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-gbdt_score = Image.open("./boosting/static/gbdt_score.jpg")
+gbdt_score = Image.open("./boosting/static/gbdt_score.JPG")
 
 st.header("Training GBDT")
 

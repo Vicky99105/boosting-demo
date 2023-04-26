@@ -6,7 +6,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-analysis_1 = Image.open('./boosting/static/analysis_1.jpg')
+analysis_1 = Image.open('./boosting/static/analysis_1.JPG')
 analysis_2 = Image.open('./boosting/static/analysis_2.png')
 analysis_3 = Image.open('./boosting/static/analysis_3.png')
 analysis_4 = Image.open('./boosting/static/analysis_4.png')

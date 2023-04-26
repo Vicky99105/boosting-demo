@@ -6,7 +6,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-optuna_score = Image.open("./boosting/static/optuna_score.jpg")
+optuna_score = Image.open("./boosting/static/optuna_score.JPG")
 
 st.header("Automated Hyperparameter tuning using Optuna")
 

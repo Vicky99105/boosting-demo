@@ -5,8 +5,8 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-fi = Image.open("./boosting/static/fi.jpg")
-fi_plot = Image.open("./boosting/static/fi_plot.jpg")
+fi = Image.open("./boosting/static/fi.JPG")
+fi_plot = Image.open("./boosting/static/fi_plot.JPG")
 
 
 st.header("Model Interpretation using various techniques")

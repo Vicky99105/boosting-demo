@@ -6,7 +6,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-missing = Image.open('./boosting/static/missing.jpg')
+missing = Image.open('./boosting/static/missing.JPG')
 
 st.header("Handling Missing values")
 st.markdown("---")

@@ -6,7 +6,7 @@ from streamlit_extras.switch_page_button import switch_page
 add_indentation()
 
 
-dt_score = Image.open('./boosting/static/dt_score.jpg')
+dt_score = Image.open('./boosting/static/dt_score.JPG')
 
 
 st.header("Boosting - Another Meta Learning Algorithm")
