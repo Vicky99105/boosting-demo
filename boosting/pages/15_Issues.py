@@ -3,7 +3,7 @@ from st_pages import add_indentation
 from PIL import Image
 from streamlit_extras.switch_page_button import switch_page
 
-permutation_plot = Image.open("./static/permutation_plot.png")
+permutation_plot = Image.open("./boosting/static/permutation_plot.png")
 
 add_indentation()
 

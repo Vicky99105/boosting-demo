@@ -6,7 +6,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-visualize = Image.open("./static/visualization.webp")
+visualize = Image.open("./boosting/static/visualization.webp")
 
 "add video here"
 

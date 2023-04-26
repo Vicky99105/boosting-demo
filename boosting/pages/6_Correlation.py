@@ -6,7 +6,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-corr = Image.open('./static/correlation.png')
+corr = Image.open('./boosting/static/correlation.png')
 
 
 st.header("Are features correlated with the target variable ?")

@@ -5,8 +5,8 @@ from streamlit_extras.switch_page_button import switch_page
 
 add_indentation()
 
-encoding_1 = Image.open('./static/analysis_4.png')
-encoding_2 = Image.open("./static/analysis_2.png")
+encoding_1 = Image.open('./boosting/static/analysis_4.png')
+encoding_2 = Image.open("./boosting/static/analysis_2.png")
 
 st.header("Encoding the data")
 
