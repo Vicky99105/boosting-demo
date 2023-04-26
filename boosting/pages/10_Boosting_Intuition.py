@@ -37,7 +37,7 @@ st.markdown("""
 
     """)
 
-file_ = open("./static/visualize.gif", "rb")
+file_ = open("./boosting/static/visualize.gif", "rb")
 contents = file_.read()
 data_url = base64.b64encode(contents).decode("utf-8")
 file_.close()
