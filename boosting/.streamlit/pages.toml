@@ -1,11 +1,11 @@
 [[pages]]
-path = "main.py"
+path = "boosting/main.py"
 name = "Agenda"
 icon = "🏠"
 
 
 [[pages]]
-path = "pages/0_page_1.py"
+path = "boosting/pages/0_page_1.py"
 name = "Importance of credit risk modeling"
 icon = ":female-technologist:"
 
@@ -15,42 +15,42 @@ icon = ":female-technologist:"
 is_section = true
 
 [[pages]]
-path = "pages/1_Role_of_ML.py"
+path = "boosting/pages/1_Role_of_ML.py"
 name = "Relevant factors/features"
 icon = ""
 
 [[pages]]
-path = "pages/2_Metric.py"
+path = "boosting/pages/2_Metric.py"
 name = "Metrics"
 icon = ""
 
 [[pages]]
-path = "pages/3_Dataset.py"
+path = "boosting/pages/3_Dataset.py"
 name = "Dataset Exploration"
 icon = ""
 
 [[pages]]
-path = "pages/4_Analysis.py"
+path = "boosting/pages/4_Analysis.py"
 name = "Analysing dataset"
 icon = ""
 
 [[pages]]
-path = "pages/5_Missing_values.py"
+path = "boosting/pages/5_Missing_values.py"
 name = "Handling missing values"
 icon = ""
 
 [[pages]]
-path = "pages/6_Correlation.py"
+path = "boosting/pages/6_Correlation.py"
 name = "Identifying correlation"
 icon = ""
 
 [[pages]]
-path = "pages/7_Encoding.py"
+path = "boosting/pages/7_Encoding.py"
 name = "Encoding"
 icon = ""
 
 [[pages]]
-path = "pages/8_Modeling.py"
+path = "boosting/pages/8_Modeling.py"
 name = "Modeling Approaches"
 icon = ""
 
@@ -60,22 +60,22 @@ icon = ":female-technologist:"
 is_section = true
 
 [[pages]]
-path = "pages/9_Boosting_intro.py"
+path = "boosting/pages/9_Boosting_intro.py"
 name = "Exercise-1: Run Decision Tree"
 icon = ""
 
 [[pages]]
-path = "pages/10_Boosting_Intuition.py"
+path = "boosting/pages/10_Boosting_Intuition.py"
 name = "Boosting Fundamentals"
 icon = ""
 
 [[pages]]
-path = "pages/11_Why_Boosting.py"
+path = "boosting/pages/11_Why_Boosting.py"
 name = "Gradient Boosting"
 icon = ""
 
 [[pages]]
-path = "pages/12_Training_GBDT.py"
+path = "boosting/pages/12_Training_GBDT.py"
 name = "Excercise-2 : Run Gradient Boosting Model"
 icon = ""
 
@@ -86,7 +86,7 @@ is_section = true
 
 
 [[pages]]
-path = "pages/13_Optuna.py"
+path = "boosting/pages/13_Optuna.py"
 name = "Optuna"
 icon = ""
 
@@ -96,22 +96,22 @@ icon = ":male-technologist:"
 is_section = true
 
 [[pages]]
-path = "pages/14_Model_Interpretation.py"
+path = "boosting/pages/14_Model_Interpretation.py"
 name = "Feature Importance using sklearn"
 icon = ""
 
 [[pages]]
-path = "pages/15_Issues.py"
+path = "boosting/pages/15_Issues.py"
 name = "Issues with sklearn interpretation"
 icon = ""
 
 [[pages]]
-path = "pages/16_Issues_approach.py"
+path = "boosting/pages/16_Issues_approach.py"
 name = "Issues with approach"
 icon = ""
 
 [[pages]]
-path = "pages/17_Challenges.py"
+path = "boosting/pages/17_Challenges.py"
 name = "Challenges"
 icon = ":question:"
 in_section = false
