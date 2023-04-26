@@ -1,0 +1,9 @@
+altair==4.2.2
+numpy==1.24.2
+pandas==1.5.3
+pydeck==0.8.0
+st_pages
+streamlit_extras
+streamlit_modal
+streamlit_chat
+Pillow
